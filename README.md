@@ -9,4 +9,4 @@
 
 ####Commands:
 
-	Use ./Subdomain.exe -h host.com -l list-of-words.txt -p port -o output
+	Use ./Zed -h host.com -l list-of-words.txt -p port -o output
